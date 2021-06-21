@@ -1,0 +1,13 @@
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\bin\Debug\MaxwellEditorText.exe.config
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\bin\Debug\MaxwellEditorText.exe
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\bin\Debug\MaxwellEditorText.pdb
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\bin\Debug\Guna.UI2.dll
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\obj\Debug\MaxwellEditorText.csproj.AssemblyReference.cache
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\obj\Debug\MaxwellEditorText.Index.resources
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\obj\Debug\MaxwellEditorText.Properties.Resources.resources
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\obj\Debug\MaxwellEditorText.csproj.GenerateResource.cache
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\obj\Debug\MaxwellEditorText.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\obj\Debug\MaxwellEditorText.csproj.CopyComplete
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\obj\Debug\MaxwellEditorText.exe
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\obj\Debug\MaxwellEditorText.pdb
+C:\Users\maxwe\source\repos\MaxwellEditorText\MaxwellEditorText\obj\Debug\MaxwellEditorText.Forms.FontSizeForm.resources
